@@ -1,1 +1,2 @@
-# Python-shibie
+使用point.py生成100个随机点，保存在txt文件内
+K均值二维点.py选择txt文件，进行聚类可视化。
